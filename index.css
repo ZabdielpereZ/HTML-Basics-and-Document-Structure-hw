@@ -1,0 +1,35 @@
+/* External CSS File */
+
+body{
+    padding: 10px;
+    border: 200px salmon;
+    ;
+}
+
+h1{
+    color: darkslategrey;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 112%;
+    color:red;
+}
+
+
+label{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: rgb(40, 96, 91)
+}
+
+button{
+    color: wheat;
+    padding: 10px;
+    background-color: blue;
+}
+
+button:hover {
+    background-color: blueviolet;
+}
